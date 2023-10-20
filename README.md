@@ -1,1 +1,1 @@
-npm i lodash# Maga
+npm Maga
